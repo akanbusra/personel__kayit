@@ -1,0 +1,13 @@
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe.config
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.exe
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\bin\Debug\personel_kayıt.pdb
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csprojAssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.exe
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.pdb
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.frmistatistik.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.FrmAnaForm.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.FrmGrafikler.resources
+C:\Users\busra\OneDrive\Masaüstü\MASAÜSTÜ\UDEMY C#\personel_kayıt\personel_kayıt\obj\Debug\personel_kayıt.FrmGiriş.resources
